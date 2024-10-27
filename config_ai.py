@@ -13,8 +13,8 @@ from langchain_core.output_parsers import StrOutputParser
 from route_ai import *
 
 
-token = '7819611153:AAFbmApijkMPEFfJoLhLF6eYtbM0-Fxt6co'
-creds = "OGYzYWIxZmEtNGY3Yy00YTRkLWJmZGItYWQzNjJiZDU1ODYwOmExZTJjNDJhLTFiYTgtNDE1Yy04M2QwLTAwNDdhZTQ5NDE3Mg=="
+token = 'Bot-Token'
+creds = "Sber-token"
 class GraphState(TypedDict):
     args: Dict
     question: str
